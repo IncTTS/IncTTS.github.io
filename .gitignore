@@ -1,3 +1,5 @@
 _site
 audios/gentab.py
 .sass-cache
+*json
+Gemfile
