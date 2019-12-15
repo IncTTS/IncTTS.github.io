@@ -1,5 +1,5 @@
 _site
-audios/gentab.py
+audios/*.py
 .sass-cache
 *json
 Gemfile
