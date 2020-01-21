@@ -3,3 +3,4 @@ audios/*.py
 .sass-cache
 *json
 Gemfile
+index_old.md

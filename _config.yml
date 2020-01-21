@@ -1,6 +1,9 @@
 exclude:
   - node_modules
   - script
+  - another-page.md
+  - index_old.md
+  - intro_primer_template.md
 
 sass:
   style: :compressed
