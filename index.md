@@ -60,20 +60,7 @@ Sound demos for "Incremental Text-to-Speech Synthesis with Prefix-to-Prefix Fram
 </tbody>
 </table>
 
-### 5. Our cs team has responded with a resolution.
-
-<span style="font-size:18px">Groundtruth: </span><audio controls=""  style="height: 21px; width: 168px;" src="audios/en_gt/0_600425.wav" type="audio/mpeg" />  <span style="font-size:18px">Vocoder with groundtruth-mel: </span><audio controls=""  style="height: 21px; width: 168px;" src="audios/en_gold_mel/0_600425.wav" type="audio/mpeg" />  
-<table>
-<thead>
-<tr><th><span style="color:#202b40;">Full-sentence</span>                                          </th><th><span style="color:#0084e4;">Our lookahead-2<br>k<sub>1</sub>=1,k<sub>2</sub>=1</span>      </th><th><span style="color:#0084e4;">Our lookahead-1<br>k<sub>1</sub>=1,k<sub>2</sub>=0</span>      </th><th><span style="color:#939aa4;">Our lookahead-0<br>k<sub>1</sub>=0,k<sub>2</sub>=0</span>      </th><th><span style="color:#939aa4;">Yanagita et al. (<a href="https://www.isca-speech.org/archive/SSW_2019/pdfs/SSW10_P_2-9.pdf">2019</a>)<br>2 word</span>  </th><th><span style="color:#939aa4;">Yanagita et al. (<a href="https://www.isca-speech.org/archive/SSW_2019/pdfs/SSW10_P_2-9.pdf">2019</a>)<br>1 word</span>  </th><th><span style="color:#939aa4;">Chunk-by-Chunk</span>                                          </th></tr>
-</thead>
-<tbody>
-<tr><td><audio controls=""  style="width: 168px;" src="audios/en_full/024.wav" type="audio/mpeg" /></td><td><audio controls=""  style="width: 168px;" src="audios/en_look2/024.wav" type="audio/mpeg" /></td><td><audio controls=""  style="width: 168px;" src="audios/en_look1/024.wav" type="audio/mpeg" /></td><td><audio controls=""  style="width: 168px;" src="audios/en_look0/024.wav" type="audio/mpeg" /></td><td><audio controls=""  style="width: 168px;" src="audios/baseline_jp_w2_wav/024.wav" type="audio/mpeg" />                                                </td><td><audio controls=""  style="width: 168px;" src="audios/baseline_jp_w1_wav/024.wav" type="audio/mpeg" />                                                </td><td><audio controls=""  style="width: 168px;" src="audios/en_chunk/024.wav" type="audio/mpeg" /></td></tr>
-<tr><td>latency: 0.73s                                                                             </td><td>latency: 0.26s                                                                              </td><td>latency: 0.11s                                                                              </td><td>latency: 0.17s                                                                              </td><td>latency: 0.21s                                                                                                                                        </td><td>latency: 0.11s                                                                                                                                        </td><td>latency: 0.14s                                                                              </td></tr>
-</tbody>
-</table>
-
-### 6. Kick it up a notch with some landscape lighting.
+### 5. Kick it up a notch with some landscape lighting.
 
 <span style="font-size:18px">Groundtruth: </span><audio controls=""  style="height: 21px; width: 168px;" src="audios/en_gt/0_600429.wav" type="audio/mpeg" />  <span style="font-size:18px">Vocoder with groundtruth-mel: </span><audio controls=""  style="height: 21px; width: 168px;" src="audios/en_gold_mel/0_600429.wav" type="audio/mpeg" />  
 <table>
@@ -86,7 +73,7 @@ Sound demos for "Incremental Text-to-Speech Synthesis with Prefix-to-Prefix Fram
 </tbody>
 </table>
 
-### 7. Potatoes have more chromosomes than humans.
+### 6. Potatoes have more chromosomes than humans.
 
 <span style="font-size:18px">Groundtruth: </span><audio controls=""  style="height: 21px; width: 168px;" src="audios/en_gt/0_600432.wav" type="audio/mpeg" />  <span style="font-size:18px">Vocoder with groundtruth-mel: </span><audio controls=""  style="height: 21px; width: 168px;" src="audios/en_gold_mel/0_600432.wav" type="audio/mpeg" />  
 <table>
