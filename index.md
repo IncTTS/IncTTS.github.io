@@ -11,6 +11,7 @@ Sound demos for "Incremental Text-to-Speech Synthesis with Prefix-to-Prefix Fram
 ### 1. This courtroom charisma is like the opposite of the repulsion I create everywhere else in life.
 
 <span style="font-size:18px">Groundtruth: </span><audio controls=""  style="height: 21px; width: 168px;" src="audios/en_gt/0_600428.wav" type="audio/mpeg" />  <span style="font-size:18px">Vocoder with groundtruth-mel: </span><audio controls=""  style="height: 21px; width: 168px;" src="audios/en_gold_mel/0_600428.wav" type="audio/mpeg" />  
+<div class="widetab">
 <table>
 <thead>
 <tr><th><span style="color:#202b40;">Full-sentence</span>                                          </th><th><span style="color:#0084e4;">Our lookahead-2<br>k<sub>1</sub>=1,k<sub>2</sub>=1</span>      </th><th><span style="color:#0084e4;">Our lookahead-1<br>k<sub>1</sub>=1,k<sub>2</sub>=0</span>      </th><th><span style="color:#939aa4;">Our lookahead-0<br>k<sub>1</sub>=0,k<sub>2</sub>=0</span>      </th><th><span style="color:#939aa4;">Yanagita et al. (<a href="https://www.isca-speech.org/archive/SSW_2019/pdfs/SSW10_P_2-9.pdf">2019</a>)<br>2 word</span>  </th><th><span style="color:#939aa4;">Yanagita et al. (<a href="https://www.isca-speech.org/archive/SSW_2019/pdfs/SSW10_P_2-9.pdf">2019</a>)<br>1 word</span>  </th><th><span style="color:#939aa4;">Yanagita et al. (<a href="https://www.isca-speech.org/archive/SSW_2019/pdfs/SSW10_P_2-9.pdf">2019</a>)<br>lookahead-0</span>  </th><th><span style="color:#939aa4;">Lookahead-0-indep</span>                                       </th></tr>
@@ -20,10 +21,12 @@ Sound demos for "Incremental Text-to-Speech Synthesis with Prefix-to-Prefix Fram
 <tr><td>latency: 0.47s                                                                             </td><td>latency: 0.21s                                                                              </td><td>latency: 0.14s                                                                              </td><td>latency: 0.14s                                                                              </td><td>latency: 0.28s                                                                                                                                        </td><td>latency: 0.06s                                                                                                                                        </td><td>latency: 0.23s                                                                                                                                             </td><td>latency: 0.17s                                                                              </td></tr>
 </tbody>
 </table>
+</div>
 
 ### 2. Some days you're butch , some days fem.
 
 <span style="font-size:18px">Groundtruth: </span><audio controls=""  style="height: 21px; width: 168px;" src="audios/en_gt/0_600435.wav" type="audio/mpeg" />  <span style="font-size:18px">Vocoder with groundtruth-mel: </span><audio controls=""  style="height: 21px; width: 168px;" src="audios/en_gold_mel/0_600435.wav" type="audio/mpeg" />  
+<div class="widetab">
 <table>
 <thead>
 <tr><th><span style="color:#202b40;">Full-sentence</span>                                          </th><th><span style="color:#0084e4;">Our lookahead-2<br>k<sub>1</sub>=1,k<sub>2</sub>=1</span>      </th><th><span style="color:#0084e4;">Our lookahead-1<br>k<sub>1</sub>=1,k<sub>2</sub>=0</span>      </th><th><span style="color:#939aa4;">Our lookahead-0<br>k<sub>1</sub>=0,k<sub>2</sub>=0</span>      </th><th><span style="color:#939aa4;">Yanagita et al. (<a href="https://www.isca-speech.org/archive/SSW_2019/pdfs/SSW10_P_2-9.pdf">2019</a>)<br>2 word</span>  </th><th><span style="color:#939aa4;">Yanagita et al. (<a href="https://www.isca-speech.org/archive/SSW_2019/pdfs/SSW10_P_2-9.pdf">2019</a>)<br>1 word</span>  </th><th><span style="color:#939aa4;">Yanagita et al. (<a href="https://www.isca-speech.org/archive/SSW_2019/pdfs/SSW10_P_2-9.pdf">2019</a>)<br>lookahead-0</span>  </th><th><span style="color:#939aa4;">Lookahead-0-indep</span>                                       </th></tr>
@@ -33,10 +36,12 @@ Sound demos for "Incremental Text-to-Speech Synthesis with Prefix-to-Prefix Fram
 <tr><td>latency: 0.45s                                                                             </td><td>latency: 0.24s                                                                              </td><td>latency: 0.17s                                                                              </td><td>latency: 0.16s                                                                              </td><td>latency: 0.16s                                                                                                                                        </td><td>latency: 0.11s                                                                                                                                        </td><td>latency: 0.16s                                                                                                                                             </td><td>latency: 0.14s                                                                              </td></tr>
 </tbody>
 </table>
+</div>
 
 ### 3. The second one I am thinking was a man who used her bib.
 
 <span style="font-size:18px">Groundtruth: </span><audio controls=""  style="height: 21px; width: 168px;" src="audios/en_gt/0_600450.wav" type="audio/mpeg" />  <span style="font-size:18px">Vocoder with groundtruth-mel: </span><audio controls=""  style="height: 21px; width: 168px;" src="audios/en_gold_mel/0_600450.wav" type="audio/mpeg" />  
+<div class="widetab">
 <table>
 <thead>
 <tr><th><span style="color:#202b40;">Full-sentence</span>                                          </th><th><span style="color:#0084e4;">Our lookahead-2<br>k<sub>1</sub>=1,k<sub>2</sub>=1</span>      </th><th><span style="color:#0084e4;">Our lookahead-1<br>k<sub>1</sub>=1,k<sub>2</sub>=0</span>      </th><th><span style="color:#939aa4;">Our lookahead-0<br>k<sub>1</sub>=0,k<sub>2</sub>=0</span>      </th><th><span style="color:#939aa4;">Yanagita et al. (<a href="https://www.isca-speech.org/archive/SSW_2019/pdfs/SSW10_P_2-9.pdf">2019</a>)<br>2 word</span>  </th><th><span style="color:#939aa4;">Yanagita et al. (<a href="https://www.isca-speech.org/archive/SSW_2019/pdfs/SSW10_P_2-9.pdf">2019</a>)<br>1 word</span>  </th><th><span style="color:#939aa4;">Yanagita et al. (<a href="https://www.isca-speech.org/archive/SSW_2019/pdfs/SSW10_P_2-9.pdf">2019</a>)<br>lookahead-0</span>  </th><th><span style="color:#939aa4;">Lookahead-0-indep</span>                                       </th></tr>
@@ -46,10 +51,12 @@ Sound demos for "Incremental Text-to-Speech Synthesis with Prefix-to-Prefix Fram
 <tr><td>latency: 0.69s                                                                             </td><td>latency: 0.19s                                                                              </td><td>latency: 0.12s                                                                              </td><td>latency: 0.11s                                                                              </td><td>latency: 0.15s                                                                                                                                        </td><td>latency: 0.08s                                                                                                                                        </td><td>latency: 0.14s                                                                                                                                             </td><td>latency: 0.15s                                                                              </td></tr>
 </tbody>
 </table>
+</div>
 
 ### 4. Must be a fellow marathoner thing.
 
 <span style="font-size:18px">Groundtruth: </span><audio controls=""  style="height: 21px; width: 168px;" src="audios/en_gt/0_600457.wav" type="audio/mpeg" />  <span style="font-size:18px">Vocoder with groundtruth-mel: </span><audio controls=""  style="height: 21px; width: 168px;" src="audios/en_gold_mel/0_600457.wav" type="audio/mpeg" />  
+<div class="widetab">
 <table>
 <thead>
 <tr><th><span style="color:#202b40;">Full-sentence</span>                                          </th><th><span style="color:#0084e4;">Our lookahead-2<br>k<sub>1</sub>=1,k<sub>2</sub>=1</span>      </th><th><span style="color:#0084e4;">Our lookahead-1<br>k<sub>1</sub>=1,k<sub>2</sub>=0</span>      </th><th><span style="color:#939aa4;">Our lookahead-0<br>k<sub>1</sub>=0,k<sub>2</sub>=0</span>      </th><th><span style="color:#939aa4;">Yanagita et al. (<a href="https://www.isca-speech.org/archive/SSW_2019/pdfs/SSW10_P_2-9.pdf">2019</a>)<br>2 word</span>  </th><th><span style="color:#939aa4;">Yanagita et al. (<a href="https://www.isca-speech.org/archive/SSW_2019/pdfs/SSW10_P_2-9.pdf">2019</a>)<br>1 word</span>  </th><th><span style="color:#939aa4;">Yanagita et al. (<a href="https://www.isca-speech.org/archive/SSW_2019/pdfs/SSW10_P_2-9.pdf">2019</a>)<br>lookahead-0</span>  </th><th><span style="color:#939aa4;">Lookahead-0-indep</span>                                       </th></tr>
@@ -59,10 +66,12 @@ Sound demos for "Incremental Text-to-Speech Synthesis with Prefix-to-Prefix Fram
 <tr><td>latency: 0.56s                                                                             </td><td>latency: 0.24s                                                                              </td><td>latency: 0.12s                                                                              </td><td>latency: 0.11s                                                                              </td><td>latency: 0.14s                                                                                                                                        </td><td>latency: 0.12s                                                                                                                                        </td><td>latency: 0.14s                                                                                                                                             </td><td>latency: 0.14s                                                                              </td></tr>
 </tbody>
 </table>
+</div>
 
 ### 5. I often put laxatives in my dishwasher to help relax my bowls.
 
 <span style="font-size:18px">Groundtruth: </span><audio controls=""  style="height: 21px; width: 168px;" src="audios/en_gt/0_600463.wav" type="audio/mpeg" />  <span style="font-size:18px">Vocoder with groundtruth-mel: </span><audio controls=""  style="height: 21px; width: 168px;" src="audios/en_gold_mel/0_600463.wav" type="audio/mpeg" />  
+<div class="widetab">
 <table>
 <thead>
 <tr><th><span style="color:#202b40;">Full-sentence</span>                                          </th><th><span style="color:#0084e4;">Our lookahead-2<br>k<sub>1</sub>=1,k<sub>2</sub>=1</span>      </th><th><span style="color:#0084e4;">Our lookahead-1<br>k<sub>1</sub>=1,k<sub>2</sub>=0</span>      </th><th><span style="color:#939aa4;">Our lookahead-0<br>k<sub>1</sub>=0,k<sub>2</sub>=0</span>      </th><th><span style="color:#939aa4;">Yanagita et al. (<a href="https://www.isca-speech.org/archive/SSW_2019/pdfs/SSW10_P_2-9.pdf">2019</a>)<br>2 word</span>  </th><th><span style="color:#939aa4;">Yanagita et al. (<a href="https://www.isca-speech.org/archive/SSW_2019/pdfs/SSW10_P_2-9.pdf">2019</a>)<br>1 word</span>  </th><th><span style="color:#939aa4;">Yanagita et al. (<a href="https://www.isca-speech.org/archive/SSW_2019/pdfs/SSW10_P_2-9.pdf">2019</a>)<br>lookahead-0</span>  </th><th><span style="color:#939aa4;">Lookahead-0-indep</span>                                       </th></tr>
@@ -72,10 +81,12 @@ Sound demos for "Incremental Text-to-Speech Synthesis with Prefix-to-Prefix Fram
 <tr><td>latency: 0.91s                                                                             </td><td>latency: 0.29s                                                                              </td><td>latency: 0.21s                                                                              </td><td>latency: 0.20s                                                                              </td><td>latency: 0.17s                                                                                                                                        </td><td>latency: 0.09s                                                                                                                                        </td><td>latency: 0.16s                                                                                                                                             </td><td>latency: 0.14s                                                                              </td></tr>
 </tbody>
 </table>
+</div>
 
 ### 6. Still lot of years left to compile more stats.
 
 <span style="font-size:18px">Groundtruth: </span><audio controls=""  style="height: 21px; width: 168px;" src="audios/en_gt/0_600466.wav" type="audio/mpeg" />  <span style="font-size:18px">Vocoder with groundtruth-mel: </span><audio controls=""  style="height: 21px; width: 168px;" src="audios/en_gold_mel/0_600466.wav" type="audio/mpeg" />  
+<div class="widetab">
 <table>
 <thead>
 <tr><th><span style="color:#202b40;">Full-sentence</span>                                          </th><th><span style="color:#0084e4;">Our lookahead-2<br>k<sub>1</sub>=1,k<sub>2</sub>=1</span>      </th><th><span style="color:#0084e4;">Our lookahead-1<br>k<sub>1</sub>=1,k<sub>2</sub>=0</span>      </th><th><span style="color:#939aa4;">Our lookahead-0<br>k<sub>1</sub>=0,k<sub>2</sub>=0</span>      </th><th><span style="color:#939aa4;">Yanagita et al. (<a href="https://www.isca-speech.org/archive/SSW_2019/pdfs/SSW10_P_2-9.pdf">2019</a>)<br>2 word</span>  </th><th><span style="color:#939aa4;">Yanagita et al. (<a href="https://www.isca-speech.org/archive/SSW_2019/pdfs/SSW10_P_2-9.pdf">2019</a>)<br>1 word</span>  </th><th><span style="color:#939aa4;">Yanagita et al. (<a href="https://www.isca-speech.org/archive/SSW_2019/pdfs/SSW10_P_2-9.pdf">2019</a>)<br>lookahead-0</span>  </th><th><span style="color:#939aa4;">Lookahead-0-indep</span>                                       </th></tr>
@@ -85,10 +96,12 @@ Sound demos for "Incremental Text-to-Speech Synthesis with Prefix-to-Prefix Fram
 <tr><td>latency: 1.26s                                                                             </td><td>latency: 0.20s                                                                              </td><td>latency: 0.15s                                                                              </td><td>latency: 0.13s                                                                              </td><td>latency: 0.18s                                                                                                                                        </td><td>latency: 0.12s                                                                                                                                        </td><td>latency: 0.17s                                                                                                                                             </td><td>latency: 0.13s                                                                              </td></tr>
 </tbody>
 </table>
+</div>
 
 ### 7. Worry is the interest paid in advance on a debt you may never owe.
 
 <span style="font-size:18px">Groundtruth: </span><audio controls=""  style="height: 21px; width: 168px;" src="audios/en_gt/0_600477.wav" type="audio/mpeg" />  <span style="font-size:18px">Vocoder with groundtruth-mel: </span><audio controls=""  style="height: 21px; width: 168px;" src="audios/en_gold_mel/0_600477.wav" type="audio/mpeg" />  
+<div class="widetab">
 <table>
 <thead>
 <tr><th><span style="color:#202b40;">Full-sentence</span>                                          </th><th><span style="color:#0084e4;">Our lookahead-2<br>k<sub>1</sub>=1,k<sub>2</sub>=1</span>      </th><th><span style="color:#0084e4;">Our lookahead-1<br>k<sub>1</sub>=1,k<sub>2</sub>=0</span>      </th><th><span style="color:#939aa4;">Our lookahead-0<br>k<sub>1</sub>=0,k<sub>2</sub>=0</span>      </th><th><span style="color:#939aa4;">Yanagita et al. (<a href="https://www.isca-speech.org/archive/SSW_2019/pdfs/SSW10_P_2-9.pdf">2019</a>)<br>2 word</span>  </th><th><span style="color:#939aa4;">Yanagita et al. (<a href="https://www.isca-speech.org/archive/SSW_2019/pdfs/SSW10_P_2-9.pdf">2019</a>)<br>1 word</span>  </th><th><span style="color:#939aa4;">Yanagita et al. (<a href="https://www.isca-speech.org/archive/SSW_2019/pdfs/SSW10_P_2-9.pdf">2019</a>)<br>lookahead-0</span>  </th><th><span style="color:#939aa4;">Lookahead-0-indep</span>                                       </th></tr>
@@ -98,6 +111,7 @@ Sound demos for "Incremental Text-to-Speech Synthesis with Prefix-to-Prefix Fram
 <tr><td>latency: 1.27s                                                                             </td><td>latency: 0.28s                                                                              </td><td>latency: 0.17s                                                                              </td><td>latency: 0.16s                                                                              </td><td>latency: 0.17s                                                                                                                                        </td><td>latency: 0.12s                                                                                                                                        </td><td>latency: 0.16s                                                                                                                                             </td><td>latency: 0.17s                                                                              </td></tr>
 </tbody>
 </table>
+</div>
 
 
 
